@@ -10,7 +10,7 @@ const char* host = "https://ts23.herokuapp.com/bot.php";//change this to your li
 #define KEY     "VL3Ntfnptg9LOOh"     //change this to your KEY
 #define SECRET  "Q7vloIhwHWBeCYOJkb5YT3qGM"     //change this to your SECRET
 
-#define ALIAS   "bots" //set name of drvice
+#define ALIAS   "Botstree" //set name of drvice
 #define TargetWeb "switch" //set target name of web
 
 WiFiClient client;
